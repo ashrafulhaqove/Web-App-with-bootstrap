@@ -1,0 +1,149 @@
+#header_div{
+	background-color: #000000 ;
+}
+
+#footer_div{
+	background-color: #000000 ;
+	text-align: center ;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#find_out_how{
+	padding: 30px ;
+	padding-top: 60px;
+	padding-bottom:60px;
+	background: url("../images/ddg-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#text_find_out_how{
+	color: #FFFFF;
+	
+}
+#aust_can{
+	padding-top: 0px;
+	margin-top: 0px;
+
+}
+
+#button_green{
+	margin-top: 10px;
+	margin-left:0px;
+
+}
+
+#service_div{
+	
+	padding: 20px;
+	
+}
+
+
+#email_mareting{
+	background-color: #A5D54A;
+	
+	padding: 10px;
+	
+}
+
+#website_project{
+	
+	background-color: #1CA39D;
+	
+	padding: 10px;
+}
+
+#short_codes{
+	
+	background-color: #818181;
+	
+	padding: 10px;
+}
+
+
+#featured_div{
+	padding: 20px;
+	background-color: #EAEAEA;
+	
+}
+
+.container{
+	width: 100%;
+	
+}
+
+.rounded-circle{
+	
+	
+}
+
+.icons{
+	float: left;
+	margin: 10px;
+	margin-right: 15px;
+}
+
+.col-md-4{
+}
+#featured_div_main_header{
+	text-align: center;
+	
+}
+
+#featured_div_main_des{
+	text-align: center;
+	
+}
+
+.featured_div_header{
+	text-align: center;
+	
+}
+
+.featured_div_des{
+	text-align: center;
+	
+}
+
+.service_div_header{
+	
+	color: #FFFFFF;
+}
+
+.service_div_des{
+	color: #FFFFFF;
+}
+
+.h1{
+	padding: 0px;
+	margin: 0px;
+
+
+}
+.h3{
+	padding: 0px;
+	margin: 0px;
+
+
+}
+
+
+.container{
+	padding-top: 5px ;
+	padding-bottom: 3px ;
+}
+
+.image{
+	width: 100% ;
+	
+}
+
+
+
+
+
+[class^=col-]{
+}
